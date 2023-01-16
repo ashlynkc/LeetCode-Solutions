@@ -1,3 +1,7 @@
+# Solution learned and followed by: https://www.youtube.com/watch?v=V0-33jrJgwo
+# mySQL 
+# LeetCode No. 196
+
 # Please write a DELETE statement and DO NOT write a SELECT statement.
 # Write your MySQL query statement below
 
