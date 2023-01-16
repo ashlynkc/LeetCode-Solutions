@@ -1,3 +1,7 @@
+// Solution learned and followed by: https://www.youtube.com/watch?v=R2bTu57Ks-M
+// Java
+// LeetCode No. 2
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
