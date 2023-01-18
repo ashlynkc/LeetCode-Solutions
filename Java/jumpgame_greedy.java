@@ -7,7 +7,7 @@ class Solution {
         int jumpIdx = nums.length - 1;
         
         for (int i = jumpIdx; i >= 0; i--) {
-            if (i + nums[jumpIdx] >= jumpIdx)
+            if (i + nums[i] >= jumpIdx)
                 jumpIdx = i;
         }
 
